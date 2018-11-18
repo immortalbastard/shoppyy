@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="new_item">New Item</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="ok">OK</string>
+    <string name="field_empty_error">This field can not be empty</string>
+    <string name="tutorial_header">Tutorial</string>
+    <string name="tutorial_body">Click here to add an item to your shopping list</string>
+    <string name="you_have_no_items_to_buy">You have no items to buy!</string>
+    <string name="item_name">Item name</string>
+    <string name="category">Category:</string>
+    <string name="estimated_price">Estimated price</string>
+    <string name="item_description">Item description</string>
+    <string name="delete">Delete</string>
+    <string name="clear_checked">Clear Checked</string>
+    <string name="delete_all">Delete All</string>
+</resources>
