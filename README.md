@@ -1,5 +1,5 @@
 # Shopping List
-Shopping List is a class project from Mobile Software Development (taught by Péter Ekler at AIT Budapest). It is an Android application that stores items users add to their shopping list in a database and allows them to edit and remove items.
+Shopping List is a class project from Mobile Software Development (taught by Mr.Wanyama at Emobilis). It is an Android application that stores items users add to their shopping list in a database and allows them to edit and remove items.
 
 ## Features
 This application gives the user a simple way to create and update their shopping list on their device. Items can be added to the list using the floating + button, and users can enter information about the item they need to buy, including name, category, estimated price, and any other details they would like to enter. These items appear on the main shopping list page with any information entered by the user and an icon reflecting the category they selected. Items can be edited by clicking on the item in the list and using the Edit Item dialog, or deleted individually at any point. The user can also check off items they have bought and clear all the checked items, or they can delete all items from their list.
@@ -41,13 +41,11 @@ For simplicity, only relevant files and directories (i.e. files created or modif
     │   └── AndroidManifest.xml         : manifest file for the application
     │
     └── build.gradle                    : gradle file for the app module
-```
-
-## Future Improvements
-I would like to add several additional features to the app, including incorporating several TouchHelper elements. I would like to replace the delete button on each item with swipe to delete, and I would like to introduce the capability to move items around on the list by dragging and dropping.
 
 
-### Contributors
-Jessie Baskauf
 
-Some basic code adapted from Péter Ekler's demo projects
+
+
+
+
+
